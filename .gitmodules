@@ -1,3 +1,6 @@
 [submodule "CA#1"]
 	path = "CA#1"
 	url = https://github.com/mohammadsaadati80/Restoring-Divider.git
+[submodule "CA#2"]
+	path = "CA#2"
+	url = https://github.com/mohammadsaadati80/MIPS-SingleCycle.git
