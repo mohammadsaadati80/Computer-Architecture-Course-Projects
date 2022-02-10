@@ -4,3 +4,6 @@
 [submodule "CA#2"]
 	path = "CA#2"
 	url = https://github.com/mohammadsaadati80/MIPS-SingleCycle.git
+[submodule "CA#3"]
+	path = "CA#3"
+	url = https://github.com/mohammadsaadati80/MIPS-PipeLine.git
